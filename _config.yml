@@ -35,9 +35,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: placeholder
-  url: placeholder
-  email: placeholder
+  name: canto.cryptic
+  url: https://www.threads.com/@canto.cryptic
+  email: `canto.cryptic+blog [at] gmail [dot] com`
 
 # Custom vars
 version: 0.0.0
