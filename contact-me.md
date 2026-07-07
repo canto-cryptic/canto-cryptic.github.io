@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Contact me
 ---
-
-# Contact me
 
 Hi there! Feel free to contact me through one of the following:
 - Email: `canto.cryptic+blog [at] gmail [dot] com`

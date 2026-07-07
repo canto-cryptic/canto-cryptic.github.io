@@ -11,12 +11,12 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>
-        <h2 style="text-align: justify;">
+        <h3">
           <a href="{{ site.baseurl }}/" title="Home">Home</a> · 
           <a href="{{ site.baseurl }}/about" title="About">About</a> · 
           <a href="{{ site.baseurl }}/archive" title="Archive">Archive</a> · 
           <a href="{{ site.baseurl }}/contact-me" title="Contact me">Contact me</a>
-        </h2>
+        </h3>
       </header>
 
       <main>
@@ -24,10 +24,16 @@
       </main>
 
       <footer class="footer">
+        <h6>
+          <a href="{{ site.baseurl }}/" title="Home">Home</a> · 
+          <a href="{{ site.baseurl }}/about" title="About">About</a> · 
+          <a href="{{ site.baseurl }}/archive" title="Archive">Archive</a> · 
+          <a href="{{ site.baseurl }}/contact-me" title="Contact me">Contact me</a>
+        </h6>
+        <hr>
         <small>
-          <hr>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved. <br>
-          
+          Any kind of content posted on this site must not be used for training AI models of any kind unless granted explicit permission. <br>
           Made with Poole, check out its GitHub repo <a href="https://github.com/poole/poole" title="GitHub repo of Poole">here</a>.
         </small>
       </footer>
