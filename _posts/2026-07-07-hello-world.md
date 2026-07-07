@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title: Hello World!
 ---
 
 # Hello World!
