@@ -37,7 +37,7 @@ sass:
 author:
   name: canto.cryptic
   url: https://www.threads.com/@canto.cryptic
-  email: `canto.cryptic+blog [at] gmail [dot] com`
+  email: "`canto.cryptic+blog [at] gmail [dot] com`"
 
 # Custom vars
 version: 0.0.0
