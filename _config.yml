@@ -6,6 +6,8 @@ paginate: 4
 baseurl: ""
 permalink: pretty
 
+future: false
+
 # Gems
 plugins:
   - jekyll-gist
